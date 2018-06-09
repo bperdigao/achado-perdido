@@ -1,8 +1,8 @@
 # app achados e perdidos - usj
 Tarefas:
-- definir modelo do banco de dados - bruno B.
-- tela de cadastro de achado - bruno P.
-- tela de cadastro de perdido - Glauco
-- tela de match - Dário
-- tela de cadastro de usuário - jonatan
-- tela de login - david
+- Definir modelo do banco de dados - Bruno B.
+- Tela de cadastro de achado - Bruno P.
+- Tela de cadastro de perdido - Glauco
+- Tela de match - Dário
+- Tela de cadastro de usuário - Jonatan
+- Tela de login - David
