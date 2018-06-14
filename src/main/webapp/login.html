@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Login Achados e Perdidos</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="./resources/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="./resources/css/login.css" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="card card-container">
+                <img id="profile-img" class="profile-img-card" src="//ssl.gstatic.com/accounts/ui/avatar_2x.png" />
+                <p id="profile-name" class="profile-name-card"></p>
+                <form class="form-signin">
+                    <span id="reauth-email" class="reauth-email"></span>
+                    <input type="email" id="inputEmail" class="form-control" placeholder="Email" autofocus>
+                    <input type="password" id="inputPassword" class="form-control" placeholder="Senha"/>
+                    <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">Login</button>
+                </form><!-- /form -->
+                <a href="#" class="forgot-password">
+                    Esqueceu sua senha?
+                </a>
+            </div><!-- /card-container -->
+        </div><!-- /container -->
+    </body>
+</html>
